@@ -25,7 +25,3 @@ class  Classeviva {
 		}
 	}
 }
-
-$classeviva = new Classeviva();
-echo $classeviva->view('01.25','0t7aqa5ogl6ig7lb9m7e60tbf6gdiqlg');
-
